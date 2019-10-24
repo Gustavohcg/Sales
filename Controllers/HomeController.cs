@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Sales.Models;
+using Sales.Models.ViewModels;
 
 namespace Sales.Controllers {
     public class HomeController : Controller {
